@@ -20,7 +20,7 @@ Power bi dashboard
   - Maharashtra contributes the highest profit, followed by Madhya Pradesh and Uttar Pradesh.
   - Delhi shows minimal contribution to profit.
 - **Profit by Month:**
-  - Profit peaks in February and December.
+  - Profit peaks in january and november.
   - There is a decline in profits during the middle of the year.
 
 ### 3. **Customer and Category Insights**
