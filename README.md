@@ -25,7 +25,7 @@ Power bi dashboard
 
 ### 3. **Customer and Category Insights**
 - **Top Customers by Sales Amount:**
-  - Hemanth and Madhav are the leading contributors.
+  - Harivansh and Madhav are the leading contributors.
 - **Sales by Category:**
   - Clothing dominates with 63% of the total quantity sold.
   - Electronics contribute 21%, and Furniture accounts for 17%.
