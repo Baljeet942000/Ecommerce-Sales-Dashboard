@@ -6,3 +6,5 @@ Power bi dashboard
 * Used complex parameters to drill down in worksheet and customization using filters and slicers.
 * Created connections, joined new tables ,did calculations to manipulate data and enable user driven parameters for visualizations.
 * Used different types of customized visualisations.
+
+## Insights
